@@ -1,0 +1,46 @@
+body {
+    background-color: cyan;
+    text-align: center;
+    font-size:26px;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+#apps {
+    background-color: lightblue;
+    height: 1000px;
+    width: 100%;
+    font-size:32px;
+    font-family: cursive
+}
+.line{
+    height:6px;
+    width:1800px;
+    margin: auto 8px;
+    background-color: black;
+}
+#games{
+    background-color: darkmagenta;
+    height: 1000px;
+    width: 100%;
+    font-size:32px;
+    font-family: cursive
+}
+img {
+    transition: transform .2s
+}
+img:hover{
+    transform: scale(0.9)
+}
+#chatapp{
+    background-color: darkseagreen;
+    height: 1000px;
+    width: 100%;
+    font-size:32px;
+    font-family: cursive
+}
